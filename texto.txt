@@ -1,3 +1,4 @@
 Arquivo de texto para teste do SHA1.
 MODO DE USAR
 $ openssl sha1 texto.txt
+$ ll
